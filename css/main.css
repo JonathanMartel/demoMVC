@@ -1,0 +1,30 @@
+/********
+* Votre CSS
+********/
+
+nav ul li
+{
+    display: inline-block;
+    border-left : 1px solid #CCCCCC;
+    border-right : 1px solid #CCCCCC;
+    background-color: #EEEEEE;
+}
+
+
+nav ul li a, nav ul li a:hover, nav ul li a:visited
+{
+    color : #000000;
+    text-decoration: none;
+}
+
+.erreur
+{
+    color:#FF0000;
+}
+
+.resultat
+{
+	min-height:50px;
+	width:500px;
+	background-color: rgba(200,200,200,.5);
+}
