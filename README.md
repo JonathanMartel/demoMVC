@@ -31,3 +31,4 @@ Ce dossier contiendra les classes personnalisées (accès SQL, traduction, class
 Copyright (c) 2013 Jonathan Martel  
 Creative Commons BY-NC 3.0 (Licence Creative Commons Attribution - Pas d’utilisation commerciale 3.0 non transposé)
 http://creativecommons.org/licenses/by-nc/3.0/deed.fr
+
