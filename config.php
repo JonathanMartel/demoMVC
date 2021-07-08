@@ -14,7 +14,7 @@
 	define('MODELE_DIR', 'modeles/');	// Chemin vers les modèles
 	define('VUES_DIR', 'vues/');	// Chemin vers les vues
 	define('LIB_DIR', 'lib/');	// Chemin vers les librairies
-	
+	// Allo les ami(e)s
     if(strpos($_SERVER['HTTP_HOST'], '127.0.0.1') !== false || strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) // debug local (trouver la sous-chaine 127.0.0.1)
     {
         define('HOST', 'localhost');
